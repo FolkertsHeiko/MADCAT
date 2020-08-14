@@ -1,9 +1,9 @@
-This repository has been archived, because MADCAT v1 and v2 needed speration.
+This repository has been archived, because MADCAT v1 and v2 needed separation.
 
-MADCAT v1 maintenance is now in seperate repository:
+MADCAT v1 maintenance is now in separate repository:
 https://github.com/FolkertsHeiko/MADCAT-v1
 
-MADCAT v2 maintenance is now in seperate repository, too:
+MADCAT v2 maintenance is now in separate repository, too:
 https://github.com/FolkertsHeiko/MADCAT-v2
 
 
