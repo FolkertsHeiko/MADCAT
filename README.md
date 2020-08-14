@@ -1,3 +1,12 @@
+This repository has been archived, because MADCAT v1 and v2 needed speration.
+
+MADCAT v1 maintenance is now in seperate repository:
+https://github.com/FolkertsHeiko/MADCAT-v1
+
+MADCAT v2 maintenance is now in seperate repository, too:
+https://github.com/FolkertsHeiko/MADCAT-v2
+
+
 Contact:
 heiko.folkerts [at] bsi.bund.de or github [at] thevoid.email
 
